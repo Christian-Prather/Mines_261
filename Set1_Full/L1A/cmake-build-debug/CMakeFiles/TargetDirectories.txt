@@ -1,0 +1,3 @@
+C:/Users/clems/Documents/CSC MINES/Set1_Full/L1A/cmake-build-debug/CMakeFiles/Lab1A.dir
+C:/Users/clems/Documents/CSC MINES/Set1_Full/L1A/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/clems/Documents/CSC MINES/Set1_Full/L1A/cmake-build-debug/CMakeFiles/rebuild_cache.dir
