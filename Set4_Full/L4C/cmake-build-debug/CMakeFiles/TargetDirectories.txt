@@ -1,0 +1,3 @@
+C:/Users/clems/Documents/CSC MINES/Set4/L4C/cmake-build-debug/CMakeFiles/L4C.dir
+C:/Users/clems/Documents/CSC MINES/Set4/L4C/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/clems/Documents/CSC MINES/Set4/L4C/cmake-build-debug/CMakeFiles/rebuild_cache.dir

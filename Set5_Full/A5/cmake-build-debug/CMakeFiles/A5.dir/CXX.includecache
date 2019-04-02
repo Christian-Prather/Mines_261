@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/clems/Documents/CSC MINES/Set5_Full/A5/gameLogic.cpp
+gameLogic.h
+C:/Users/clems/Documents/CSC MINES/Set5_Full/A5/gameLogic.h
+iostream
+-
+
+C:/Users/clems/Documents/CSC MINES/Set5_Full/A5/gameLogic.h
+
+C:/Users/clems/Documents/CSC MINES/Set5_Full/A5/main.cpp
+iostream
+-
+gameLogic.h
+C:/Users/clems/Documents/CSC MINES/Set5_Full/A5/gameLogic.h
+
