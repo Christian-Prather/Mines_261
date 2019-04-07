@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/clems/Documents/CSC MINES/Set6_Full/L6B
+# Install script for directory: C:/Users/Christian/Documents/GitHub/Mines_261/Set6_Full/L6B
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/clems/Documents/CSC MINES/Set6_Full/L6B/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/Christian/Documents/GitHub/Mines_261/Set6_Full/L6B/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

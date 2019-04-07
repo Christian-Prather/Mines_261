@@ -1,0 +1,3 @@
+C:/Users/Christian/Documents/GitHub/Mines_261/Set6_Full/A6/cmake-build-debug/CMakeFiles/A6.dir
+C:/Users/Christian/Documents/GitHub/Mines_261/Set6_Full/A6/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Christian/Documents/GitHub/Mines_261/Set6_Full/A6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
