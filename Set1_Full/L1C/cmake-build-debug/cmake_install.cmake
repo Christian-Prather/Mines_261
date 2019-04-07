@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/clems/Documents/L1C
+# Install script for directory: C:/Users/clems/Documents/CSC MINES/Set1_Full/L1C
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/clems/Documents/L1C/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/clems/Documents/CSC MINES/Set1_Full/L1C/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

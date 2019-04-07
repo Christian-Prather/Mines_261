@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/clems/Documents/CSC MINES/Set2/A2/main.cpp" "C:/Users/clems/Documents/CSC MINES/Set2/A2/cmake-build-debug/CMakeFiles/A2.dir/main.cpp.obj"
+  "C:/Users/clems/Documents/CSC MINES/Set2_Full/A2/main.cpp" "C:/Users/clems/Documents/CSC MINES/Set2_Full/A2/cmake-build-debug/CMakeFiles/A2.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
