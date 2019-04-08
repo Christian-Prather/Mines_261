@@ -1,3 +1,0 @@
-C:/Users/Christian/Documents/GitHub/Mines_261/Set6_Full/L6A/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_9ca72.dir
-C:/Users/Christian/Documents/GitHub/Mines_261/Set6_Full/L6A/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/edit_cache.dir
-C:/Users/Christian/Documents/GitHub/Mines_261/Set6_Full/L6A/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/rebuild_cache.dir

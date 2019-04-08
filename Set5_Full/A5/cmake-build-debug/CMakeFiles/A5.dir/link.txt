@@ -1,3 +1,1 @@
-"C:\Program Files\JetBrains\CLion 2018.3.2\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\A5.dir/objects.a
-C:\mingw64\bin\ar.exe cr CMakeFiles\A5.dir/objects.a @CMakeFiles\A5.dir\objects1.rsp
-C:\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\A5.dir/objects.a -Wl,--no-whole-archive  -o A5.exe -Wl,--out-implib,libA5.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\A5.dir\linklibs.rsp
+/usr/bin/c++  -g   CMakeFiles/A5.dir/main.cpp.o CMakeFiles/A5.dir/gameLogic.cpp.o  -o A5 

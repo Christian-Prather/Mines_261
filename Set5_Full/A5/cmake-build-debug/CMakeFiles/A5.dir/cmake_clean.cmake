@@ -1,10 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/A5.dir/main.cpp.obj"
-  "CMakeFiles/A5.dir/gameLogic.cpp.obj"
+  "CMakeFiles/A5.dir/main.cpp.o"
+  "CMakeFiles/A5.dir/gameLogic.cpp.o"
   "A5.pdb"
-  "A5.exe"
-  "A5.exe.manifest"
-  "libA5.dll.a"
+  "A5"
 )
 
 # Per-language clean rules from dependency scanning.

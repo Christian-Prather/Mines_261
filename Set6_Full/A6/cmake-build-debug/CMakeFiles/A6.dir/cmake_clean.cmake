@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/A6.dir/main.cpp.obj"
+  "CMakeFiles/A6.dir/main.cpp.o"
   "A6.pdb"
-  "A6.exe"
-  "A6.exe.manifest"
-  "libA6.dll.a"
+  "A6"
 )
 
 # Per-language clean rules from dependency scanning.

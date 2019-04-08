@@ -6,11 +6,17 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Christian/Documents/GitHub/Mines_261/Set6_Full/A6/main.cpp
+/home/christian/Documents/Mines_261/Set6_Full/A6/main.cpp
 iostream
 -
 vector
 -
+string
+-
+wordCount.h
+/home/christian/Documents/Mines_261/Set6_Full/A6/wordCount.h
+
+/home/christian/Documents/Mines_261/Set6_Full/A6/wordCount.h
 string
 -
 
