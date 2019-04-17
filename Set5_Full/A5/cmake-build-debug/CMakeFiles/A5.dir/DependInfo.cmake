@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/clems/Documents/CSC MINES/Set5_Full/A5/gameLogic.cpp" "C:/Users/clems/Documents/CSC MINES/Set5_Full/A5/cmake-build-debug/CMakeFiles/A5.dir/gameLogic.cpp.obj"
-  "C:/Users/clems/Documents/CSC MINES/Set5_Full/A5/main.cpp" "C:/Users/clems/Documents/CSC MINES/Set5_Full/A5/cmake-build-debug/CMakeFiles/A5.dir/main.cpp.obj"
+  "/home/christian/Documents/Mines_261/Set5_Full/A5/gameLogic.cpp" "/home/christian/Documents/Mines_261/Set5_Full/A5/cmake-build-debug/CMakeFiles/A5.dir/gameLogic.cpp.o"
+  "/home/christian/Documents/Mines_261/Set5_Full/A5/main.cpp" "/home/christian/Documents/Mines_261/Set5_Full/A5/cmake-build-debug/CMakeFiles/A5.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

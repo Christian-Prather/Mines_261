@@ -1,4 +1,5 @@
 #include <iostream>
+<<<<<<< HEAD
 using namespace std;
 /*
  * Open file .txt
@@ -14,5 +15,10 @@ using namespace std;
 int main()
 {
 
+=======
+
+int main() {
+    std::cout << "Hello, World!" << std::endl;
+>>>>>>> f199d3c2b6559bbf9163690e538863328f727174
     return 0;
 }

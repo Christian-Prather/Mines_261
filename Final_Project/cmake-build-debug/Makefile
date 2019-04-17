@@ -38,19 +38,33 @@ cmake_force:
 SHELL = cmd.exe
 
 # The CMake executable.
+<<<<<<< HEAD
 CMAKE_COMMAND = "C:\Program Files\JetBrains\CLion 2018.3.2\bin\cmake\win\bin\cmake.exe"
 
 # The command to remove a file.
 RM = "C:\Program Files\JetBrains\CLion 2018.3.2\bin\cmake\win\bin\cmake.exe" -E remove -f
+=======
+CMAKE_COMMAND = "C:\Program Files\JetBrains\CLion 2019.1\bin\cmake\win\bin\cmake.exe"
+
+# The command to remove a file.
+RM = "C:\Program Files\JetBrains\CLion 2019.1\bin\cmake\win\bin\cmake.exe" -E remove -f
+>>>>>>> f199d3c2b6559bbf9163690e538863328f727174
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
+<<<<<<< HEAD
 CMAKE_SOURCE_DIR = "C:\Users\clems\Documents\CSC MINES\Final_Project"
 
 # The top-level build directory on which CMake was run.
 CMAKE_BINARY_DIR = "C:\Users\clems\Documents\CSC MINES\Final_Project\cmake-build-debug"
+=======
+CMAKE_SOURCE_DIR = C:\Users\Christian\Documents\GitHub\Mines_261\Final_Project
+
+# The top-level build directory on which CMake was run.
+CMAKE_BINARY_DIR = C:\Users\Christian\Documents\GitHub\Mines_261\Final_Project\cmake-build-debug
+>>>>>>> f199d3c2b6559bbf9163690e538863328f727174
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -58,7 +72,11 @@ CMAKE_BINARY_DIR = "C:\Users\clems\Documents\CSC MINES\Final_Project\cmake-build
 # Special rule for the target rebuild_cache
 rebuild_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
+<<<<<<< HEAD
 	"C:\Program Files\JetBrains\CLion 2018.3.2\bin\cmake\win\bin\cmake.exe" -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+=======
+	"C:\Program Files\JetBrains\CLion 2019.1\bin\cmake\win\bin\cmake.exe" -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+>>>>>>> f199d3c2b6559bbf9163690e538863328f727174
 .PHONY : rebuild_cache
 
 # Special rule for the target rebuild_cache
@@ -69,7 +87,11 @@ rebuild_cache/fast: rebuild_cache
 # Special rule for the target edit_cache
 edit_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
+<<<<<<< HEAD
 	"C:\Program Files\JetBrains\CLion 2018.3.2\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available."
+=======
+	"C:\Program Files\JetBrains\CLion 2019.1\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available."
+>>>>>>> f199d3c2b6559bbf9163690e538863328f727174
 .PHONY : edit_cache
 
 # Special rule for the target edit_cache
@@ -79,9 +101,15 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
+<<<<<<< HEAD
 	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\clems\Documents\CSC MINES\Final_Project\cmake-build-debug\CMakeFiles" "C:\Users\clems\Documents\CSC MINES\Final_Project\cmake-build-debug\CMakeFiles\progress.marks"
 	$(MAKE) -f CMakeFiles\Makefile2 all
 	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\clems\Documents\CSC MINES\Final_Project\cmake-build-debug\CMakeFiles" 0
+=======
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Christian\Documents\GitHub\Mines_261\Final_Project\cmake-build-debug\CMakeFiles C:\Users\Christian\Documents\GitHub\Mines_261\Final_Project\cmake-build-debug\CMakeFiles\progress.marks
+	$(MAKE) -f CMakeFiles\Makefile2 all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Christian\Documents\GitHub\Mines_261\Final_Project\cmake-build-debug\CMakeFiles 0
+>>>>>>> f199d3c2b6559bbf9163690e538863328f727174
 .PHONY : all
 
 # The main clean target

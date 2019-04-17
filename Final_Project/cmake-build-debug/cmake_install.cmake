@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Install script for directory: C:/Users/clems/Documents/CSC MINES/Final_Project
+=======
+# Install script for directory: C:/Users/Christian/Documents/GitHub/Mines_261/Final_Project
+>>>>>>> f199d3c2b6559bbf9163690e538863328f727174
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +44,9 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
+<<<<<<< HEAD
 file(WRITE "C:/Users/clems/Documents/CSC MINES/Final_Project/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+=======
+file(WRITE "C:/Users/Christian/Documents/GitHub/Mines_261/Final_Project/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+>>>>>>> f199d3c2b6559bbf9163690e538863328f727174
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

@@ -3,4 +3,4 @@ project(A5)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(A5 main.cpp gameLogic.cpp gameLogic.h)
+add_executable(A5 main.cpp gameLogic.cpp gameLogic.h cmake-build-debug/wordCount.h)

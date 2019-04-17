@@ -8,6 +8,7 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
+<<<<<<< HEAD
 				<Option working_dir="C:/Users/clems/Documents/CSC MINES/Final_Project/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
@@ -30,6 +31,30 @@
 			<Target title="Final_Project">
 				<Option output="C:/Users/clems/Documents/CSC MINES/Final_Project/cmake-build-debug/Final_Project.exe" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="C:/Users/clems/Documents/CSC MINES/Final_Project/cmake-build-debug"/>
+=======
+				<Option working_dir="C:/Users/Christian/Documents/GitHub/Mines_261/Final_Project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Christian/Documents/GitHub/Mines_261/Final_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Christian/Documents/GitHub/Mines_261/Final_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Christian/Documents/GitHub/Mines_261/Final_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Christian/Documents/GitHub/Mines_261/Final_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/Christian/Documents/GitHub/Mines_261/Final_Project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Christian/Documents/GitHub/Mines_261/Final_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Christian/Documents/GitHub/Mines_261/Final_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Christian/Documents/GitHub/Mines_261/Final_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Christian/Documents/GitHub/Mines_261/Final_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Final_Project">
+				<Option output="C:/Users/Christian/Documents/GitHub/Mines_261/Final_Project/cmake-build-debug/Final_Project.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Christian/Documents/GitHub/Mines_261/Final_Project/cmake-build-debug"/>
+>>>>>>> f199d3c2b6559bbf9163690e538863328f727174
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -42,6 +67,7 @@
 					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
+<<<<<<< HEAD
 					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/clems/Documents/CSC MINES/Final_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 Final_Project"/>
 					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/clems/Documents/CSC MINES/Final_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/clems/Documents/CSC MINES/Final_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -51,6 +77,17 @@
 			<Target title="Final_Project/fast">
 				<Option output="C:/Users/clems/Documents/CSC MINES/Final_Project/cmake-build-debug/Final_Project.exe" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="C:/Users/clems/Documents/CSC MINES/Final_Project/cmake-build-debug"/>
+=======
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Christian/Documents/GitHub/Mines_261/Final_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 Final_Project"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Christian/Documents/GitHub/Mines_261/Final_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Christian/Documents/GitHub/Mines_261/Final_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Christian/Documents/GitHub/Mines_261/Final_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Final_Project/fast">
+				<Option output="C:/Users/Christian/Documents/GitHub/Mines_261/Final_Project/cmake-build-debug/Final_Project.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Christian/Documents/GitHub/Mines_261/Final_Project/cmake-build-debug"/>
+>>>>>>> f199d3c2b6559bbf9163690e538863328f727174
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -63,6 +100,7 @@
 					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
+<<<<<<< HEAD
 					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/clems/Documents/CSC MINES/Final_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 Final_Project/fast"/>
 					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/clems/Documents/CSC MINES/Final_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/clems/Documents/CSC MINES/Final_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -84,6 +122,29 @@
 			<Option target="Final_Project"/>
 		</Unit>
 		<Unit filename="C:/Users/clems/Documents/CSC MINES/Final_Project/CMakeLists.txt">
+=======
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Christian/Documents/GitHub/Mines_261/Final_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 Final_Project/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Christian/Documents/GitHub/Mines_261/Final_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Christian/Documents/GitHub/Mines_261/Final_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Christian/Documents/GitHub/Mines_261/Final_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/Christian/Documents/GitHub/Mines_261/Final_Project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Christian/Documents/GitHub/Mines_261/Final_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Christian/Documents/GitHub/Mines_261/Final_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Christian/Documents/GitHub/Mines_261/Final_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Christian/Documents/GitHub/Mines_261/Final_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/Christian/Documents/GitHub/Mines_261/Final_Project/main.cpp">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="C:/Users/Christian/Documents/GitHub/Mines_261/Final_Project/CMakeLists.txt">
+>>>>>>> f199d3c2b6559bbf9163690e538863328f727174
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

@@ -6,9 +6,11 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/clems/Documents/CSC MINES/Set6_Full/L6B/main.cpp
+/home/christian/Documents/Mines_261/Set6_Full/L6B/main.cpp
 iostream
 -
 vector
+-
+string
 -
 

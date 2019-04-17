@@ -1,3 +1,3 @@
-C:/Users/clems/Documents/CSC MINES/Set6_Full/L6A/cmake-build-debug/CMakeFiles/L6A.dir
-C:/Users/clems/Documents/CSC MINES/Set6_Full/L6A/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/clems/Documents/CSC MINES/Set6_Full/L6A/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/christian/Documents/Mines_261/Set6_Full/L6A/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/christian/Documents/Mines_261/Set6_Full/L6A/cmake-build-debug/CMakeFiles/L6A.dir
+/home/christian/Documents/Mines_261/Set6_Full/L6A/cmake-build-debug/CMakeFiles/edit_cache.dir

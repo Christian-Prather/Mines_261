@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 "C:\Program Files\JetBrains\CLion 2018.3.2\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\Final_Project.dir/objects.a
+=======
+"C:\Program Files\JetBrains\CLion 2019.1\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\Final_Project.dir/objects.a
+>>>>>>> f199d3c2b6559bbf9163690e538863328f727174
 C:\mingw64\bin\ar.exe cr CMakeFiles\Final_Project.dir/objects.a @CMakeFiles\Final_Project.dir\objects1.rsp
 C:\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Final_Project.dir/objects.a -Wl,--no-whole-archive  -o Final_Project.exe -Wl,--out-implib,libFinal_Project.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Final_Project.dir\linklibs.rsp
