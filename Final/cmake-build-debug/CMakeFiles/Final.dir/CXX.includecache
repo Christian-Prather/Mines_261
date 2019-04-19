@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/clems/Documents/CSC MINES/Final/main.cpp
+/home/christian/Documents/Mines_261/Final/main.cpp
 iostream
 -
 fstream

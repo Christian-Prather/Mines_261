@@ -17,7 +17,7 @@ public:
 
 vector <Word> wordList;
 
-
+int middleOut(ofstream &compressedFile);
 
 int main()
 {
@@ -25,6 +25,13 @@ int main()
     if (loadFile.fail())
     {
         cerr << "File not found... maybe use pipie"<< endl;
+        return -1;
+    }
+
+    ofstream compressedFile("compressed.pra");
+    if (compressedFile.fail())
+    {
+        cerr << "Cant save file"<<endl;
         return -1;
     }
 
@@ -67,11 +74,44 @@ int main()
         cout << wordList[j].word<< wordList[j].frequency<<endl;
 
     }
+    middleOut( compressedFile);
+
 
     return 0;
 }
 
-void middleOut()
+int middleOut( ofstream &compressedFile)
 {
+    int maxCount = 0;
+    string maxWord;
+
+    for (int i = 0; i < wordList.size(); i++) {
+        if (wordList[i].frequency > maxCount) {
+            maxCount = wordList[i].frequency;
+            maxWord = wordList[i].word;
+        }
+    }
+
+    string currentWord;
+    ifstream loadFile("test.txt");
+    if (loadFile.fail())
+    {
+        cerr << "File not found... maybe use pipie"<< endl;
+        return -1;
+
+    }
+    while (!loadFile.eof())
+    {
+        loadFile >> currentWord;
+        if (currentWord == maxWord)
+        {
+           compressedFile << " 1";
+
+        }
+        else
+        {
+            compressedFile << " " << currentWord;
+        }
+    }
 
 }
